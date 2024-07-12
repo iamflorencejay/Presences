@@ -6,14 +6,14 @@
 	},
 	"service": "Odysee",
 	"altnames": [
-		"LBRY"
+		"Odysee.com"
 	],
 	"description": {
-		"en": "Web frontend for LBRY. LBRY does to publishing, what Bitcoin did to money.",
-		"nl": "Web frontend voor LBRY. LBRY doet met publiceren, wat Bitcoin met geld deed."
+		"en": "YouTube alternative based on the Arweave blockchain (Formerly LBRY).",
+		"nl": "YouTube alternative based on the Arweave blockchain (Formerly LBRY)."
 	},
 	"url": "odysee.com",
-	"version": "1.0.19",
+	"version": "1.0.20",
 	"logo": "https://cdn.rcd.gg/PreMiD/websites/O/Odysee/assets/logo.png",
 	"thumbnail": "https://cdn.rcd.gg/PreMiD/websites/O/Odysee/assets/thumbnail.jpg",
 	"color": "#0a070d",
